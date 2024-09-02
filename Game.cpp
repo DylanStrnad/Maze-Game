@@ -1,6 +1,3 @@
-// Mikhail Nesterenko
-// tests class-based Maze function implementation
-// 3/23/2023
 
 #include <iostream>
 #include "maze.h"
